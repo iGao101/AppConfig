@@ -1,0 +1,15 @@
+安装vmware tools为灰色：https://blog.csdn.net/qq_40259641/article/details/79022844
+
+安装教程：
+https://blog.csdn.net/dcrmg/article/details/74090307
+
+修改dns：
+https://blog.csdn.net/xueer767/article/details/72864777
+sudo /etc/init.d/networking restart
+
+vmware没有网：
+https://blog.csdn.net/u013554213/article/details/79408084
+
+
+ubuntu安装docker:
+https://blog.csdn.net/wuzhangweiss/article/details/88895570
