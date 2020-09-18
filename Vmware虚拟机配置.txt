@@ -1,7 +1,12 @@
 安装vmware tools为灰色：https://blog.csdn.net/qq_40259641/article/details/79022844
 
-安装教程：
+解决屏幕无法全屏的问题：
 https://blog.csdn.net/dcrmg/article/details/74090307
+
+修改系统时间：
+https://blog.csdn.net/zhengchaooo/article/details/79500032
+修改系统语言：
+https://blog.csdn.net/qq_19339041/article/details/80058575
 
 修改dns：
 https://blog.csdn.net/xueer767/article/details/72864777
